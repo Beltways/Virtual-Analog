@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 00000000000000000000000000000000
+  productGUID: 541e5f0613ebf1045af237d52adc82ac
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -825,7 +825,7 @@ PlayerSettings:
   cloudProjectId: fa934d26-2f16-4cfd-86b9-e35e203ab069
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Virtual Analog 2024-01-22_12-26-34
   organizationId: beltways
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

@@ -157,7 +157,9 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Android: com.DefaultCompany.VirtualAnalog
+    Standalone: com.DefaultCompany.Virtual-Analog
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -820,7 +822,7 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: fa934d26-2f16-4cfd-86b9-e35e203ab069
   framebufferDepthMemorylessMode: 0
